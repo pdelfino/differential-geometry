@@ -7,3 +7,9 @@ I did this for the course "Curvas e superfícies" (Curves and Surfaces) at the E
 Date: 2017.2
 
 Geogebra version: 5
+
+gifs
+
+notas de aula - link - pdf
+
+
