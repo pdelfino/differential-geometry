@@ -5,7 +5,7 @@
 
  + Date: 2017.2
 
- + Technology: Python, Geogebra (version 5.0) and HTML from Desmos
+ + Tech Stack: Geogebra (version 5.0), LaTeX, HTML from Desmos and Python
 
   Crowdsourced material in portuguese
   ---
