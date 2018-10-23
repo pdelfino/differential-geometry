@@ -1,7 +1,11 @@
  Differential Geometry Applications
  ---
 
- + I did this for the course "Curvas e superfícies" (Curves and Surfaces) at the Escola de Mamemática Aplicada (EMAp). The course was led by Professor Maria Soledad and Professor Asla Sá.
+ + I did this for the course "Curvas e superfícies" (Curves and Surfaces) at the Escola de Mamemática Aplicada (EMAp).
+ 
+ + Professors: 
+ - Professor Maria Soledad, PhD.
+ - Professor Asla Sá, PhD.
 
  + Date: 2017.2
 
