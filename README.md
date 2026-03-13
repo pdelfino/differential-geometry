@@ -1,6 +1,6 @@
 # Differential Geometry -- Curves and Surfaces
 
-![The Starry Night](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/700px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)
+![The Starry Night](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/960px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)
 
 *"The Starry Night" (1889) by Vincent van Gogh — [Wikipedia](https://en.wikipedia.org/wiki/The_Starry_Night)*
 
